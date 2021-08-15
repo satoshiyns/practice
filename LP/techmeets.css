@@ -1,1 +1,254 @@
+/* ◎リセットcss＊/
+/*
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com
+Twitter: @rich_clark
+*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+body {
+    line-height:1;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+nav ul {
+    list-style:none;
+}
+blockquote, q {
+    quotes:none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    text-decoration: none;
+}
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+del {
+    text-decoration: line-through;
+}
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+input, select {
+    vertical-align:middle;
+}
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ◎リセットCSS */
+header{
+  position: relative;
+  background-color: #ff7300;
+  width: 1200px;
+
+}
+div.headimg img{
+  position: relative;
+  width: 1200px;
+
+}
+ p.tag_box1{
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 20%;
+     }
+     p.tag_box2{
+        color: white;
+        position: absolute;
+        top: 0;
+        left: 27%;
+         }
+         p.tag_box3{
+            color: white;
+            position: absolute;
+            top: 0;
+            left: 46%;
+             }
+             p.tag_box4{
+                color: white;
+                position: absolute;
+                top: 0;
+                left: 53%;
+              }
+            p.tag_bottan1{
+                color: white;
+                position: absolute;
+                top: 0;
+                left: 66%;
+                background-color: #ff7300;
+              }
+              p.tag_bottan2{
+                  color: white;
+                  position: absolute;
+                  top: 0;
+                  left: 79%;
+                  background-color: #ff7300;
+                }
+          .messege1{
+              color: white;
+              position: absolute;
+              top: 20%;
+              left: 35%;
+              font-size: 200%;
+             }
+             .messege2{
+                 color: white;
+               position: absolute;
+                 top: 30%;
+                 left: 35%;
+                font-size: 200%;
+}
+
+  .second {
+  position: relative;
+  background-color: #ff7300;
+
+  }
+ .second-in{
+   position: relative;
+   width: 360px;
+   left: 55%;
+   top: 10%;
+   margin-bottom: 2%;
+   margin-top: : 2%;
+ }
+.what{
+  position: absolute;
+  top: 22%;
+  left: 28%;
+}
+.tech{
+  position: absolute;
+  top: 30%;
+  left: 28%;
+}
+.damie{
+  position: absolute;
+  top: 40%;
+  left: 23%;
+}
+main{
+  position: relative;
+  width: 1200px;
+  height: 600px;
+}
+
+.body1{
+  position: absolute;
+  width: 20%;
+  left: 5%;
+  top: 10%;
+}
+.body2{
+
+  position: absolute;
+  width: 20%;
+  left: 36%;
+   top: 10%;
+}
+.body3{
+  position: absolute;
+  width: 20%;
+  left: 67%;
+   top: 10%;
+}
+.body4{
+  position: absolute;
+  width: 20%;
+  left: 5%;
+  top: 55%;
+}
+.body5{
+  position: absolute;
+  width: 20%;
+  left: 36%;
+  top: 55%;
+}
+.body6{
+  position: absolute;
+  width: 20%;
+  left: 67%;
+   top: 55%;
+}
+
+footer {
+  background-color:
+  position: relative;
+  width: 1200px;
+ background-color: #ff7300;
+}
+footer img{
+  margin: 0;
+  padding: 0;
+}
+header{
+    .bigbox{
+      h1{margin-left: auto;
+      margin-right: auto;}
+    }
+
+
+}
 
